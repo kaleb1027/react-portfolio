@@ -7,7 +7,6 @@
 ## Credits
   Here is everyone that helped me with this project:  
   <br>
-  <br>
   Dominick Albano - https://github.com/dev-dominick
   
   Isaak Morales - https://github.com/CallMeIce
