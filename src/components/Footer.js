@@ -23,12 +23,12 @@ export default function Footer() {
     <BottomNavigation style={styles.footerStyles} sx={{ width: 500 }} value={value} onChange={handleChange}>
       <BottomNavigationAction
         label="GitHub"
-        value="GitHub"
+        href = "https://github.com/kaleb1027"
         icon={<GitHubIcon />}
       />
       <BottomNavigationAction
         label="LinkedIn"
-        value="LinkedIn"
+        href = "https://www.linkedin.com/in/kaleb-s-0898131a9/"
         icon={<LinkedInIcon />}
       />
       

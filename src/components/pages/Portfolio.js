@@ -15,6 +15,7 @@ export default function Portfolio() {
             <div className="project-name-text">
               <h3>Nostalgia Tunes</h3>
               <span>HTML/CSS/JS</span>
+              
             </div>
           </a>
 
