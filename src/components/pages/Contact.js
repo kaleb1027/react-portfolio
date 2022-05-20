@@ -1,8 +1,13 @@
 import React from 'react';
 
+const styles = {
+  align: {
+    textAlign: "center"
+  }
+}
 export default function Contact() {
   return (
-    <div>
+    <div style={styles.align}>
       <h1>Contact Page</h1>
       <p>
         Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis

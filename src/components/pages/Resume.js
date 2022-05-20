@@ -1,8 +1,13 @@
 import React from 'react';
 
+const styles = {
+  align: {
+    textAlign: "center"
+  }
+}
 export default function Resume() {
   return (
-    <div>
+    <div style={styles.align}>
       <h1>Resume Page</h1>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
