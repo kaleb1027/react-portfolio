@@ -8,7 +8,7 @@ const styles = {
 export default function Portfolio() {
   return (
     <div style={styles.align}>
-      <h1>Blog Page</h1>
+      <h1>Portfolio Page</h1>
       <p>
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
         Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
