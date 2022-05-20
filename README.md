@@ -5,7 +5,7 @@
   This project is a react application that features a portfolio of my favorite projects thus far in my development journey. 
   
 ## Credits
-  
+  Here is everyone that helped me with this project:  <br>
   Dominick Albano - https://github.com/dev-dominick
   
   Isaak Morales - https://github.com/CallMeIce
